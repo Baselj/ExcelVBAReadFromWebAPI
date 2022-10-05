@@ -11,7 +11,7 @@ Excel macro, written in VBA reads from [ARSO Weather API](http://meteo.arso.gov.
 1. Excel with VBA enabled
 2. Enabled developer tab in Excel (options -> customize Ribbon, check Developer)
 
-##Features
+## Features
 
 - Connects to [ARSO Weather API](http://meteo.arso.gov.si/uploads/probase/www/fproduct/text/sl/fcast_SLOVENIA_latest.xml).
 - Queries the returned XML using xpath to get the correct information. 
