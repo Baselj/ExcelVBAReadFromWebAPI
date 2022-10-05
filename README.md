@@ -18,3 +18,7 @@ Excel macro, written in VBA reads from [ARSO Weather API](http://meteo.arso.gov.
 - Creates an Excel shape (arrow) according to the temperature change (arrow up/arrow down/circle).
 - Writes the result in Sheet1.
 - In case of errors message box is shown.
+
+## How do I use it?
+
+- Import .bas file from the commit into a new module
