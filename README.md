@@ -21,4 +21,4 @@ Excel macro, written in VBA reads from [ARSO Weather API](http://meteo.arso.gov.
 
 ## How do I use it?
 
-- Import .bas file from the commit into a new module
+- Import .bas file from the commit into a new module or use the Excel which already has the module included.
