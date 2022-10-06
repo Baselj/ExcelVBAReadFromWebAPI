@@ -1,6 +1,6 @@
 # Excel VBA - read from WEB API
 
-Read from Web API using Excel VBA Macro
+Read from Web API using Excel VBA Macro and query the returned XML file using x-path.
 
 ## Description
 
